@@ -102,5 +102,4 @@ https://www.appodeal.com/home/privacy-policy/
 <p>If you have any questions about this Privacy Policy, please contact us:</p>
 <ul>
         <li>By email: smadirow@gmail.com</li>
-          
-        </ul>
+   
